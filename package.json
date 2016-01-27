@@ -1,0 +1,33 @@
+{
+  "name": "gitbook-plugin-videos",
+  "description": "Embed Gist into your book",
+  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">=2.0.0"
+  },
+  "dependencies": {
+    "change-case": "2.3.0"
+  },
+
+  "license": "Apache-2.0",
+
+  "_id": "gitbook-plugin-videos@0.0.1",
+  "scripts": {},
+  "_from": "gitbook-plugin-videos@*",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.0",
+  "_npmUser": {
+    "name": "slh",
+    "email": "me@ioslh.com"
+  },
+
+  "maintainers": [
+    {
+      "name": "slh",
+      "email": "me@ioslh.com"
+    }
+  ],
+  "directories": {}
+}
+w
